@@ -1,0 +1,4 @@
+print("Welcome to Dropout startup Name Generator")
+course=input("which course did you dropout from?\n")
+product=input("what product do you sell\n")
+print("your startup name could be: ",course,product+"wala")
